@@ -16,3 +16,7 @@ The management expects detailed insights into the following:
 6.	Content Consumption Behavior: Patterns in total watch time, device preferences, and variations by user demographics.
 
 This Power BI interactive dashboard provides a detailed understanding of above point to make a data driven decision of both platform merger.
+
+Below is the link of interactive dashboard:
+
+https://app.powerbi.com/groups/me/reports/8c728af0-76a8-433f-ac6f-b2193eca8682/fdd03d618aa8b047fe93?experience=power-bi
