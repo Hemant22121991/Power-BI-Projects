@@ -1,3 +1,5 @@
+Title : OTT platform performance insights
+
 Problem Statement
 
 Providing Insights for a Strategic Merger in the OTT Domain
@@ -19,4 +21,4 @@ This Power BI interactive dashboard provides a detailed understanding of above p
 
 Below is the link of interactive dashboard:
 
-https://app.powerbi.com/groups/me/reports/8c728af0-76a8-433f-ac6f-b2193eca8682/fdd03d618aa8b047fe93?experience=power-bi
+https://app.powerbi.com/reportEmbed?reportId=87c4ef8c-a6d4-4a80-af2c-f263818352c4&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
