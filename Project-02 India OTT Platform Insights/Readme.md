@@ -21,4 +21,4 @@ This Power BI interactive dashboard provides a detailed understanding of above p
 
 Below is the link of interactive dashboard:
 
-https://app.powerbi.com/reportEmbed?reportId=87c4ef8c-a6d4-4a80-af2c-f263818352c4&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
+https://app.powerbi.com/view?r=eyJrIjoiYTJiMmNkNWItYmRiZC00YzkwLWJjOGYtNzdlYjg3NjAxNDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
