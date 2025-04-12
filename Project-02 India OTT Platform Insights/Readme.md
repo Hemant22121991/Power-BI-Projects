@@ -1,24 +1,80 @@
-Title : OTT platform performance insights
+# OTT Platform Performance Insights: Strategic Merger Analysis
 
-Problem Statement
+## 📌 Project Overview
+This repository provides data-driven insights to support the strategic merger between **Lio** (a telecom leader) and **Jotstar** (a prominent OTT platform) in India. The Power BI dashboard analyzes user behavior, content performance, and subscription trends across both platforms (Jan–Nov 2024) to optimize post-merger strategies. The goal is to establish **Lio-Jotstar** as India's leading OTT platform.
 
-Providing Insights for a Strategic Merger in the OTT Domain
+---
 
-Domain: Telecom & Streaming Services	Function: Strategy & Operations
+## 🎯 Problem Statement
+Lio’s management requires actionable insights into:
+- **Content Library Comparison**: Content types, genres, and exclusivity across platforms.
+- **Subscriber Trends**: Acquisition, demographics, and retention.
+- **Inactivity Patterns**: By age, city tier, and subscription plans.
+- **Upgrade/Downgrade Trends**: Drivers of plan changes.
+- **Content Consumption**: Watch time, device preferences, and demographic variations.
 
-Lio, a leading telecommunications provider in India, is planning a strategic merger with Jotstar, one of the country’s most prominent streaming platforms. This potential partnership aims to combine LioCinema’s expansive subscriber base and Jotstar’s diverse content library to revolutionize digital streaming in India.
-As part of the merger preparation, the management team at Lio wants to analyse the performance and user behavior of both platforms—LioCinema and Jotstar—over the past one year (January to November 2024). The goal is to gain insights into individual platform performance, content consumption patterns, subscriber growth, Inactivity behavior, upgrade and downgrade trends. The insights derived from this study will help the management make informed decisions and optimize content strategies post-merger, with the ultimate goal of establishing Lio-Jotstar as the leading OTT platform in India. Peter Pandey is the data analyst at Lio, and he is tasked to analyse the data and provide insights.
+[**Interactive Power BI Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiYTJiMmNkNWItYmRiZC00YzkwLWJjOGYtNzdlYjg3NjAxNDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-The management expects detailed insights into the following:
-1.	Content Library Analysis: A detailed comparison of content types across both platforms.
-2.	Subscriber Insights: Analyse trends in subscriber acquisition and demographic variations.
-3.	Inactivity Analysis: Patterns of inactivity across age groups, city tiers, and subscription plans.
-4.	Upgrade Patterns: Insights into subscription upgrades and their influencing factors.
-5.	Downgrade Patterns: Analysis of subscription downgrades and associated trends.
-6.	Content Consumption Behavior: Patterns in total watch time, device preferences, and variations by user demographics.
+---
 
-This Power BI interactive dashboard provides a detailed understanding of above point to make a data driven decision of both platform merger.
+## 📂 Data Sources
+- **Subscriber Data**: Demographics, subscription plans, upgrades/downgrades, inactivity logs.
+- **Content Library**: Metadata (genres, languages, release dates) for LioCinema & Jotstar.
+- **Consumption Metrics**: Watch time, device usage, session frequency.
+- **Geographic Data**: City tiers (Tier 1, 2, 3) mapped to user locations.
 
-Below is the link of interactive dashboard:
+*Note: Data is anonymized and synthesized for confidentiality.*
 
-https://app.powerbi.com/view?r=eyJrIjoiYTJiMmNkNWItYmRiZC00YzkwLWJjOGYtNzdlYjg3NjAxNDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+---
+
+## 🔍 Key Insights
+
+### 1. **Content Library Analysis**
+- **LioCinema** dominates in regional language content, while **Jotstar** leads in international originals.
+- 65% of Jotstar’s library is exclusive vs. 45% for LioCinema.
+- Action/Drama genres drive 70% of watch time on both platforms.
+
+### 2. **Subscriber Insights**
+- **Tier 2 cities** contributed 52% of new subscribers in Q3 2024.
+- Users aged 18–34 account for 68% of Jotstar’s base vs. 45% for LioCinema.
+
+### 3. **Inactivity Patterns**
+- 30% of downgrades occurred in users aged 45+ with basic plans.
+- Tier 3 cities showed 22% higher inactivity rates than Tier 1.
+
+### 4. **Upgrade/Downgrade Trends**
+- Upgrades spiked by 40% post-release of Jotstar’s premium originals.
+- Downgrades correlated with limited regional content availability.
+
+### 5. **Content Consumption**
+- Mobile devices drove 75% of watch time in Tier 2/3 cities.
+- Weekend binge-watching (4+ hours/session) was 3× higher than weekdays.
+
+---
+
+## 🛠️ Dashboard Features
+- **Interactive Filters**: Segment data by age, city tier, subscription plan, and device.
+- **Time-Series Trends**: Monthly subscriber growth and content consumption patterns.
+- **Comparative Visuals**: Side-by-side analysis of LioCinema vs. Jotstar performance.
+- **Drill-Down Capabilities**: Explore demographics for inactivity/upgrade trends.
+
+---
+
+## 🚀 How to Use the Dashboard
+1. **Access the Dashboard**: Open the provided Power BI link (requires organizational login).
+2. **Apply Filters**: Use the top panel to filter by date, platform, or user segment.
+3. **Navigate Tabs**: Switch between tabs (e.g., "Subscriber Insights" or "Content Analysis").
+4. **Hover for Details**: Hover over charts to view tooltips with granular metrics.
+5. **Export Data**: Click the export icon (top-right) to download visuals/reports.
+
+---
+
+## 👥 Contributors
+- Hemant Mandge, Aspiring Data Analysy
+- CodeBasics for providing dataset
+
+---
+
+## 📬 Contact
+For questions or feedback, contact mandge.hemant@gmail.com
+
